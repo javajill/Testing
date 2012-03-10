@@ -2,7 +2,7 @@ This is in the master branch.
 
 This was added in branch A.
 This was added in branch B.
-
+This was added in B after I made branch C.
 
 This was added to master after branches A and B.
 
