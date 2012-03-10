@@ -5,3 +5,6 @@ This was added in branch B.
 
 
 This was added to master after branches A and B.
+
+
+This was added in branch C.
