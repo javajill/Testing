@@ -1,1 +1,3 @@
 This is in the master branch.
+
+This was added in branch B.
