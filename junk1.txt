@@ -8,8 +8,9 @@ This was added to master after branches A and B.
 
 
 This was added in branch C.
-
+Here is more stuff added in branch C.
 And here is another change now that everything is merged.
+And even more in branch C.
 
 
 
