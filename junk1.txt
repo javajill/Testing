@@ -18,4 +18,5 @@ And even more in branch C.
 back in master - line 1
 still in master - line 2
 
+added by gittest1
 added by testing
